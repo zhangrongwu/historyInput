@@ -2,6 +2,9 @@
 
 > 移动端webapp输入历史推荐
 
+![historyInput.gif](https://upload-images.jianshu.io/upload_images/1775503-2fb320982e1ed786.gif?imageMogr2/auto-orient/strip)
+
+
 ## Build Setup
 
 ``` bash
